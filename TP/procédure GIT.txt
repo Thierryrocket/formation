@@ -1,0 +1,32 @@
+GIT
+
+Création de dossier
+A FAIRE UNE SEULE FOIS {
+
+Click droit git Bash Here
+
+git init (enter)
+
+git remote add origin https://github.com/Bllanc/nom du repository.git(enter)
+}
+
+
+git remote show(enter)[permet de voir si le depot est effectuer]
+git remote show origin(enter)[permet de voir le lien]
+
+git add *(enter)[permet d'ajouter les changements effectuer]
+git status(enter)[permet d'afficher tout les fichiers qui ont reçus une modif]
+git commit -m "Message ou Titre du Commit"(enter)
+git push -u origin master(enter)
+
+machine 2
+
+git add *(enter)[permet d'ajouter les changements effectuer]
+git status(enter)[permet d'afficher tout les fichiers qui ont reçus une modif]
+git commit -m "Message ou Titre du Commit"(enter)
+git push -u origin master(enter)
+git pull
+
+pour cloner les fichiers
+git clone
+
